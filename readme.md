@@ -1,14 +1,19 @@
 # History of front end frameworks
+> slide 1
 
 In this talk, we'll explore how far we've come down the evolutionary chain of front end development. Through this exploration, we highlight the importance of the underlying technologies of front end frameworks that we know and love today.
 
-One of the dictionary definitions of history is
+> slide 2
+
+One of the [Merriam-Webster dictionary definitions](https://www.merriam-webster.com/dictionary/history?utm_campaign=sd&utm_medium=serp&utm_source=jsonld) of history is
 
 ```
-A chronological record of significant events often including an explanation of their causes.
+a chronological record of significant events (such as those affecting a nation or institution) often including an explanation of their causes
 ```
 
 People, throughout time, leverage history as lessons learned. We, as developers, are no different. It's important to know where we came from to identify problems and situations we've already solved.
+
+It is often said that winners write the history books. Fortunately for developers, we learn from both winners and losers.
 
 ## A brief history lesson - The beginning
 
@@ -35,3 +40,6 @@ Remember mapquest?
 Though there was access to this technology by 1998, it wasn't largely popularized until Google leveraged the technology for their popular Gmail and Google maps web applications.
 
 By April of 2006, the w3c released the first specification for XMLHttpRequest object.
+
+
+We are javascript developers first; FE Framework developers second.
