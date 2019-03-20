@@ -15,6 +15,26 @@ People, throughout time, leverage history as lessons learned. We, as developers,
 
 It is often said that winners write the history books. Fortunately for developers, we learn from both winners and losers.
 
+> slide 3
+
+This slide was just meant as a joke, but the reality is that we've come ...
+
+> slide 4
+
+this far in front end development. Granted, there is still a bunch of jQuery code out in production, but it's not a tool that we reach for anymore as front end developers starting on new projects. Another scarier or potentially more exciting prospect is this:
+
+> slide 5
+
+Technology is constantly innovating. What is considered best practice now could be obsolete in the conceivable future.
+
+> slide 6
+
+This is why we are front end developers first and framework developers second.
+
+Let's dive into some front end history to get some insights into where we are today in front end code.
+
+> slide 7
+
 ## A brief history lesson - The beginning
 
 In 1980, Tim Berners-Lee developed and prototyped a system called ENQUIRE at CERN(European Organization for Nuclear Research) that allowed researchers there to communicate with each other. In 1990, HTML was born based off that system.
@@ -23,6 +43,8 @@ Soon after, Håkon Wium Lie proposed the first iteration of CSS in 1994. By 1996
 
 
 In 1995, Netscape Communications hired Brendan Eich to embed a programming language into their browser. In May of 1995, Brendan Eich wrote a prototype in 10 days under the name Mocha while officially being called LiveScript. It later was renamed to Javascript to ride on the marketing coat tails of the popular Java programming language.
+
+// TODO And we could do cool things like click events
 
 ## Next
 
