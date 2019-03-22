@@ -21,19 +21,25 @@ This slide was just meant as a joke, but the reality is that we've come ...
 
 > slide 4
 
-this far in front end development. Granted, there is still a bunch of jQuery code out in production, but it's not a tool that we reach for anymore as front end developers starting on new projects. Another scarier or potentially more exciting prospect is this:
+this far in front end development. Granted, there is still a bunch of jQuery code out in production, but it's not a tool that we reach for anymore as front end developers starting on new projects. It's not too long ago that jQuery had a long reign.
 
 > slide 5
 
-Technology is constantly innovating. What is considered best practice now could be obsolete in the conceivable future.
+Javascript in the earlier days was plagued with browser compatibility issues. jQuery solved a lot of those problems and much more. It made our lives easier and became the gold standard of javascript development. However, we started to feel some of the pains that jQuery alone couldn't solve. So we started building lots of frameworks.
+
+Another scarier or potentially more exciting prospect is this:
 
 > slide 6
+
+Technology is constantly innovating. What is considered best practice now could be obsolete in the conceivable future.
+
+> slide 7
 
 This is why we are front end developers first and framework developers second.
 
 Let's dive into some front end history to get some insights into where we are today in front end code.
 
-> slide 7
+slide 8
 
 ## A brief history lesson - The beginning
 
