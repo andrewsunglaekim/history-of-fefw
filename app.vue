@@ -7,9 +7,7 @@
 
 
               <template>
-                <button
-                  @click="handleClick"
-                  class="our-cool-vue-component">
+                <button @click="handleClick">
                   click me!
                 </button>
               </template>
