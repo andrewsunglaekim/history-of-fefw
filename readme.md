@@ -114,25 +114,78 @@ It made writing javascript fun. It was popular for a very long time.
 
 > slide 20
 
+As the barrier to entry for JS lowered, the feature set that javascript provided was becoming more apparent to those outside of technologists.
+
+Designers, product owners, project managers were evolving as fast as the technology was moving.
+
+As product designers and project managers grew to learn the capabilities that JS could provide, the UI's became much more complex
+
+> slide 21
+
+Heres a graphic and a bit of code to illustrate how jQuery just wasn't enough for developers.
+
+> slide 22
+
 Even though jQuery was a great success, it also born other frustrations that we didn't know about at first.
 
-We began to realize our code lacked structure. We were doing DOM introspection in lieu of state management
+We began to realize our code lacked structure. We were chaining massive amounts of unmaintainable code with little regards to abstraction and encapsulation.
 
+There was DOM introspection in lieu of state management.
 
-## Next
+We had problems...
 
-Great, we've got our 3 pillars of front end development by 1995. So everything was simple and easy to develop once these specs came out.
+> slide 23
 
-Not in the slightest. We faced many issues and still do today with compatibility issues between browsers. That didn't stop developers from creating new features against the browser though.
+While this all was happening. Server side technologies had been innovating and rolling out new technologies as well.
+Technologies Like
 
-And we, as developers today, are probably pretty happy with the next "revolution" in front end code.
+- spring MVC
+- Ruby on Rails
+- Django
 
-## AJAX
- This gave us as developers the ability to fetch things asynchronously. It allowed us to finally make server requests on the client!
+There was a common coding pattern, MVC. The Model View Controller paradigm coupled with REST became a standard for server side web development.
 
-Though there was access to this technology by 1998, it wasn't largely popularized until Google leveraged the technology for their popular Gmail and Google maps web applications.
+It set the precedent for the front end to aspire to.
 
-By April of 2006, the w3c released the first specification for XMLHttpRequest object.
+> slide 24
 
+A quick aside. We've innovated in recent history, but most things we've come up with aren't ostensibly new.
+
+We very much stand on the shoulders of giants. So many coding patterns are used on both server and client. Even networking and code as infrastructure.
+
+So much of code knowledge is foundational in that it builds upon itself. Things are easier to put on top of the foundation the broader and stronger it is.
+
+> slide 25
+
+Anyways back into our history lesson. We struggled with the growing complexity of uis and building them with jQuery.
+
+We ultimately wanted server rendered views with none of the down side.
+
+We wanted SPA architecture.
+
+We needed the front end framework
+
+> slide 26
+
+BackboneJS and AngularJS were some of the very first JS frameworks to be released.
+
+> slide 27
+
+We solved so many problems!
+
+- Client side routing, enabling SPA architecture
+- Better encapsulation of component logic
+- Abstraction of some of the explicit DOM interactions
+- code maintainability and developer ergonomics
+- quicker app prototyping
+- (AngularJS) 2 way data binding – now a standard feature for most front end frameworks
+
+[2-way data binding codepen](https://codepen.io/manishiitg/pen/ZYOmbB)
+
+> slide 28
+
+But then came some of the problems.
+
+Dependency management became a nightmare. Whether it was source code or vendor code it became pretty unwieldy when the application started to scale in the early years.
 
 We are javascript developers first; FE Framework developers second.
