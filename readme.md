@@ -188,4 +188,8 @@ But then came some of the problems.
 
 Dependency management became a nightmare. Whether it was source code or vendor code it became pretty unwieldy when the application started to scale in the early years.
 
-We are javascript developers first; FE Framework developers second.
+> slide 29
+
+nodeJS was a keystone technology in solving many of these dependency management issues we were facing.
+
+It allowed us to build and compile our code in a language we were all comfortable with, javascript.
