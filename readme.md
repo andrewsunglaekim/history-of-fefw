@@ -11,6 +11,8 @@ One of the [Merriam-Webster dictionary definitions](https://www.merriam-webster.
 a chronological record of significant events (such as those affecting a nation or institution) often including an explanation of their causes
 ```
 
+I really like the phrase explanation of their causes. When we think about major events in front end history and what causes them, we can extrapolate out the cause of the event by identifying the problems they were trying to solve.
+
 People, throughout time, leverage history as lessons learned. We, as developers, are no different. It's important to know where we came from to identify problems and situations we've already solved.
 
 It is often said that winners write the history books. Fortunately for developers, we learn from both winners and losers.
